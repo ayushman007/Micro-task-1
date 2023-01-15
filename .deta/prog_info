@@ -1,0 +1,1 @@
+{"id":"b77d6baf-eeec-4ced-9e63-34c2dda31250","space":47853,"runtime":"nodejs14.x","name":"first_micro1","path":"ylowq4","project":"d0inv9a4","account":"144798365827","region":"ap-south-1","deps":["uuid@^9.0.0","express@^4.18.2"],"envs":null,"public":true,"log_level":"off","cron":""}
